@@ -1,11 +1,11 @@
 <?php
 
 
-namespace lsimeonov\FullTextRebuild\Providers;
+namespace Ucaka\FullTextRebuild\Providers;
 
 
 use Illuminate\Support\ServiceProvider;
-use lsimeonov\FulltextRebuild\Console\Commands\FullTextRebuild;
+use Ucaka\FulltextRebuild\Console\Commands\FullTextRebuild;
 
 class FullTextRebuildProvider extends ServiceProvider
 {

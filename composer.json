@@ -1,5 +1,5 @@
 {
-    "name": "lsimeonov/laravel-fulltext-rebuild",
+    "name": "ucaka/laravel-fulltext-rebuild",
     "description": "Rebuilds MySQL FULLTEXT indexes",
     "type": "library",
     "license": "MIT",

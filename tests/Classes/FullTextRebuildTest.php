@@ -1,10 +1,10 @@
 <?php
 
 
-namespace lsimeonov\Tests\FullTextRebuild\Classes;
+namespace Ucaka\Tests\FullTextRebuild\Classes;
 
 
-use lsimeonov\Tests\FullTextRebuild\TestCase;
+use Ucaka\Tests\FullTextRebuild\TestCase;
 
 class FullTextRebuildTest extends TestCase
 {

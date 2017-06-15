@@ -1,6 +1,6 @@
 <?php
 
-namespace lsimeonov\Tests\FullTextRebuild;
+namespace Ucaka\Tests\FullTextRebuild;
 
 
 use GrahamCampbell\TestBench\AbstractPackageTestCase;

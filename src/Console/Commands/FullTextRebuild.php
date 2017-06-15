@@ -1,7 +1,7 @@
 <?php
 
 
-namespace lsimeonov\FullTextRebuild\Console\Commands;
+namespace Ucaka\FullTextRebuild\Console\Commands;
 
 
 use Illuminate\Console\Command;
