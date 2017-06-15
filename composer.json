@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lsimeonov\\FullTextRebuid\\": "src/"
+            "Ucaka\\FullTextRebuild\\": "src/"
         }
     },
     "autoload-dev": {

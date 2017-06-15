@@ -5,7 +5,6 @@ namespace Ucaka\FullTextRebuild\Providers;
 
 
 use Illuminate\Support\ServiceProvider;
-use Ucaka\FulltextRebuild\Console\Commands\FullTextRebuild;
 
 class FullTextRebuildProvider extends ServiceProvider
 {
@@ -14,7 +13,7 @@ class FullTextRebuildProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->commands([FullTextRebuild::class]);
+        $this->commands([\Ucaka\FullTextRebuild\Console\Commands\FullTextRebuild::class]);
     }
 
     /**

@@ -59,6 +59,6 @@ class FullTextRebuild extends Command
 
         $bar->finish();
 
-        $this->info('Fulltext indexes were rebuild successfully');
+        $this->info(PHP_EOL . 'Fulltext indexes were rebuild successfully');
     }
 }
