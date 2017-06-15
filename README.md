@@ -1,5 +1,5 @@
 ## About
-This is a simple library for laravel that helps you rebuild INNODB fulltext indexes for MySQL. 
+This is a simple library for laravel that helps you rebuild fulltext indexes for MySQL. 
 This is useful when you change `innodb_ft_min_token_size` property. 
 You can find more info about MySQL fulltext index length [here](https://dev.mysql.com/doc/refman/5.7/en/fulltext-fine-tuning.html#fulltext-word-length)
 
