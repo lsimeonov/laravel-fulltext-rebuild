@@ -1,6 +1,12 @@
 {
     "name": "ucaka/laravel-fulltext-rebuild",
     "description": "Rebuilds MySQL FULLTEXT indexes",
+    "keywords": [
+        "mysql",
+        "fulltext",
+        "reindex",
+        "laravel"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
